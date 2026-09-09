@@ -16,7 +16,7 @@ execute:
 
 # Summarize new things you learned in this module about reproducible data science and literate coding.
 
-I learned that reproducible data science allows another person—or my future self—to use the same data and code to produce the same results. Literate coding combines explanations, executable code, and outputs in one document instead of separating the analysis from the final report. This makes the analytical process easier to understand, verify, and update. I also learned that organized files, documented data sources, package versions, and version control are important parts of reproducibility.
+I learned that reproducible data science allows another person to use the same data and code to produce the same results. Literate coding combines explanations, executable code, and outputs in one document instead of separating the analysis from the final report. This makes the analytical process easier to understand, verify, and update. I also learned that organized files, documented data sources, package versions, and version control are important parts of reproducibility.
 
 # Summarize the instructor's lecture about Quarto that you found impressive. Do you see yourself using Quarto every day for your job or study, like taking notes in your class or preparing a presentation? More eye-catching effects will be introduced in later modules.
 
