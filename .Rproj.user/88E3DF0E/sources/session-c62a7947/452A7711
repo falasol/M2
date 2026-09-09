@@ -3,7 +3,7 @@
     "path": "~/Documents/IBM 6500/M02/M02.qmd",
     "project_path": "M02.qmd",
     "type": "quarto_markdown",
-    "hash": "3347776256",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1788924660134.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "208:0",
-        "cursorPosition": "18,63",
-        "scrollLine": "0"
+        "cursorPosition": "41,45",
+        "scrollLine": "33"
     },
     "folds": "",
-    "lastKnownWriteTime": 1788925481,
+    "lastKnownWriteTime": 1788925646,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1788925481243,
+    "last_content_update": 1788925647002,
     "read_only": false,
     "read_only_alternatives": []
 }

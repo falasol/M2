@@ -39,4 +39,5 @@ The two packages I would choose are `Shiny` and `Plotly`. Shiny could help me tu
 I do not think R and Python should be treated as competitors because each language has different strengths. R is especially useful for statistical analysis, visualization, and research reporting, while Python is strong in automation, machine learning, and general software development. In the presentation, Julia Stewart Lowndes explained that many NASA Earth scientists used Python and Jupyter, while she brought experience from R Markdown and R-based workflows. Quarto provided a shared publishing system that allowed these users to collaborate without requiring everyone to use the same programming language. Therefore, a team can use R and Python for different tasks while sharing its work through consistent Quarto documents, Git, and GitHub.
 
 # Appendix
-<https://falasol.github.io/M2/M02.html>
+GitHub Repo: <https://github.com/falasol/M2>  
+GitHub Pages: <https://falasol.github.io/M2/M02.html>
